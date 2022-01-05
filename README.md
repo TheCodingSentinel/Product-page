@@ -1,6 +1,6 @@
 # Product-page
 
-The Basic Login is created as a quick guide on UI/UX. Created using HTML and CSS
+The Product Page is created as a quick guide on UI/UX. Created using HTML and CSS
 
 Use the example to help get familiar with basic HTML, CSS, Bootstrap, and Google Fonts.
 
