@@ -1,0 +1,102 @@
+.container-one {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgray;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-family: 'Monoton', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+
+.one {
+    margin-left: 10px;
+}
+.four {
+   text-align: right;
+   margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+   margin-top: 20px;
+}
+
+.account {
+    display: inline;
+    padding-right: 10px;
+}
+
+.containter-two {
+    margin-top: 100px;
+    align-items: center;
+    text-align: center;
+}
+
+.breadcrum {
+    color: rgb(211, 99, 99);
+}
+
+.containter-three {
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.product-image {
+    width: 500px;
+}
+
+.price {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.name {
+    text-align: left;
+}
+
+.sizes {
+    text-align: left;
+    margin-top: 30px;
+}
+.size {
+    border: 1px solid black;
+    padding: 2px;
+   width: 55px;
+   height: 55px;
+   display: inline;
+}
+.size:hover {
+    border: 1px solid red;
+    padding: 2px;
+   width: 55px;
+   height: 55px;
+   display: inline;
+   color: red;
+}
+
+.payments {
+    display: inline;
+   margin-right: 50px;
+    
+    
+}
+
+.options {
+    width: 100px;
+}
+
+.available {
+margin-left: 100px;
+}
+
+.checkout {
+width: 500px;
+height: 50px;
+background-color: rgb(118, 118, 250);
+border-radius: 100px;
+margin-top: 20px;
+}
